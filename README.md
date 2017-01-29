@@ -1,4 +1,4 @@
-# InteractKinectMidi
+# PROJET INTUI'SON
 
 Ce travail est le fruit du projet transpromotionnel "Intui'Son" mené à l'ENSC au premier semestre de l'année scolaire 2016/2017. Le programme est un prototype d'instrument MIDI dématérialisé contrôlable via Kinect.
 
