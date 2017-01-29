@@ -2,10 +2,12 @@
 
 Ce travail est le fruit du projet transpromotionnel "Intui'Son" mené à l'ENSC au premier semestre de l'année scolaire 2016/2017. Le programme est un prototype d'instrument MIDI dématérialisé contrôlable via Kinect.
 
-Une rapide description technique est donnée ci-dessous: pour plus d'informations (guide des fonctionnalités, démarche, questions...) contacter l'un des auteurs.
+Une rapide description technique est donnée ci-dessous: pour plus d'informations (guide des fonctionnalités, vidéo de démonstration,démarche, questions...) contacter l'un des auteurs.
 
 
 Liste des élèves ayant participé au développement : Docteur Nina, Metge Adrien, Rouch Thierry, Sanchez Suarez Eric, Catella Solène, Lepagnot Marc, et Rosalie Rodolphe
+
+
 
 ___________
 
