@@ -1,3 +1,5 @@
+// Tableau de note, associées ensuite à une touche 
+
 Note[]mesNotes() {
   Note[]tabNote=new Note[12];
   int c=60;
@@ -5,9 +7,11 @@ Note[]mesNotes() {
     tabNote[i]=new Note(0, c, 127);
     c++;
   }
-  tabNote[1]=new Note(0,55,127);
+  tabNote[1]=new Note(0, 55, 127);
   return tabNote;
 }
+
+//Tableau des touches et association à une note
 
 touche[]mesTouches(Note[]tabNote) {
   touche[]tabTouche=new touche[12];

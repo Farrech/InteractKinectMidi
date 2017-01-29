@@ -1,9 +1,9 @@
 class touche {
-  int x, y;
-  color col;
-  Note note;
-  boolean jouer;
-  int num;
+  int x, y; // Coordonées
+  color col;// Couleur
+  Note note; // Note associée
+  boolean jouer; // Différencie le jeu ou non de la note
+  int num; // Permet de savoir l'état de la note
   touche(int Num, color Col, Note myNote, int X, int Y, boolean Jouer) {
     num=Num;
     num=Num;
@@ -15,7 +15,7 @@ class touche {
   }
 }
 
-class instru {
+class instru { // Initialisation d'un tableau de 6 instruments
   int[][]listeInstru= new int[6][2];
   instru() {
   }
@@ -33,16 +33,16 @@ class instru {
   }
 }
 
-class bouton{
+class bouton {
   boolean active=false;
-  bouton(boolean Active){
+  bouton(boolean Active) {
     active=Active;
   }
-  
-  void survol(){
-    if(this.active){
+
+  void survol() {
+    if (this.active) {
       active=false;
-    }else{
+    } else {
       active=true;
     }
   }
